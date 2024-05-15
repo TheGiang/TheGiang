@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheGiang
 - 👀 I’m interested in fultter
-- 🌱 I’m currently learning fluter for android 
+- 🌱 I’m currently learning fluter for multiple platform 
 - 📫 Reach me by mail : anhgiangbbx@gmail.com
 
 <!---
